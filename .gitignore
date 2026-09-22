@@ -1,0 +1,17 @@
+# Local SDKs and dependency caches
+.tooling/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+android/.gradle/
+android/.kotlin/
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+.idea/
+*.iml
+coverage/
+.DS_Store

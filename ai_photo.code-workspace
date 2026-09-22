@@ -1,0 +1,33 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "dart.flutterSdkPath": ".tooling/flutter",
+    "dart.env": {
+      "PUB_CACHE": "/home/hmj/ai_photo/.tooling/pub-cache",
+      "ANDROID_HOME": "/home/hmj/ai_photo/.tooling/android-sdk",
+      "ANDROID_USER_HOME": "/home/hmj/ai_photo/.tooling/android-user",
+      "ANDROID_AVD_HOME": "/home/hmj/ai_photo/.tooling/avd",
+      "GRADLE_USER_HOME": "/home/hmj/ai_photo/.tooling/gradle",
+      "XDG_CONFIG_HOME": "/home/hmj/ai_photo/.tooling/config"
+    },
+    "files.watcherExclude": {
+      "**/.tooling/**": true
+    },
+    "search.exclude": {
+      "**/.tooling": true
+    },
+    "[dart]": {
+      "editor.formatOnSave": true
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "Dart-Code.flutter",
+      "Dart-Code.dart-code"
+    ]
+  }
+}
